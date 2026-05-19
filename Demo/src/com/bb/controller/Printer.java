@@ -2,7 +2,7 @@ package com.bb.controller;
 
 public class Printer {
 
-	void print() {
+	void printer() {
 		System.out.println("Hello Raghagu");
 		System.out.println("Welcome to ava Programming");
 		System.out.println("Have a nice day");
